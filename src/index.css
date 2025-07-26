@@ -221,8 +221,9 @@ img {
 }
 .tests-section li{
   width: 30%;
-  /* background-color: #ccc; */
-  padding: 20px 15px;
+  /* background-color: #ccc;
+  border: 1px solid #f00; */
+  padding: 16px 15px 22px 15px;
 }
 .tests-section li:nth-child(3n){
   padding: 0;

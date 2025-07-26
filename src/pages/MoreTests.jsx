@@ -50,12 +50,12 @@ const MoreTests = () => {
           <ul className="tests-section">
             <li>
               <a href="https://animal-test-site.vercel.app" target="_blank" rel="noopener noreferrer" >
-                <img src="../public/images/animal-test-site.png" alt="" />
+                <img src="/images/animal-test-site.png" alt="" />
               </a>
             </li>
             <li>
               <a href="#" target="_blank" rel="noopener noreferrer" >
-                <img src="../public/images/preparing.png" alt="" />
+                <img src="/images/preparing.png" alt="" />
               </a>
             </li>
             <li>
@@ -63,12 +63,12 @@ const MoreTests = () => {
             </li>
             <li>
               <a href="#" target="_blank" rel="noopener noreferrer" >
-                <img src="../public/images/preparing.png" alt="" />
+                <img src="/images/preparing.png" alt="" />
               </a>
             </li>
             <li>
               <a href="#" target="_blank" rel="noopener noreferrer" >
-                <img src="../public/images/preparing.png" alt="" />
+                <img src="/images/preparing.png" alt="" />
               </a>
             </li>
             <li>
