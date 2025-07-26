@@ -2,44 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import AdFitUnit from '../components/AdFitUnit';
 
-// const tests = [
-//   {
-//     title: "내 안의 동물은?",
-//     image: "/images/animal-test-site.jpg", // public/images에 넣으세요
-//     url: "https://animal-test-site.vercel.app",
-//   },
-//   {
-//     title: "내 안의 동물은?",
-//     image: "/images/animal-test-site.jpg", // public/images에 넣으세요
-//     url: "https://animal-test-site.vercel.app",
-//   },
-//   {
-//     title: "내 안의 동물은?",
-//     image: "/images/animal-test-site.jpg", // public/images에 넣으세요
-//     url: "https://animal-test-site.vercel.app",
-//   },
-//   {
-//     title: "내 안의 동물은?",
-//     image: "/images/animal-test-site.jpg", // public/images에 넣으세요
-//     url: "https://animal-test-site.vercel.app",
-//   },
-//   {
-//     title: "내 안의 동물은?",
-//     image: "/images/animal-test-site.jpg", // public/images에 넣으세요
-//     url: "https://animal-test-site.vercel.app",
-//   },
-//   {
-//     title: "내 안의 동물은?",
-//     image: "/images/animal-test-site.jpg", // public/images에 넣으세요
-//     url: "https://animal-test-site.vercel.app",
-//   },
-//   {
-//     title: "내 안의 동물은?",
-//     image: "/images/animal-test-site.jpg", // public/images에 넣으세요
-//     url: "https://animal-test-site.vercel.app",
-//   }
-// ];
-
 const MoreTests = () => {
   return (
     <div className="container">
