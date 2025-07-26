@@ -245,11 +245,12 @@ button:focus, button:focus-visible {
   color: #f9dd00;
   background-color: #3c1e1e;
 }
-.more-tests-button{
+.button-box .more-tests-button{
   width: 21%;
   background-color: #eb782b;
+  color: #ffffff;
 }
-.more-tests-button:hover{
+.button-box .more-tests-button:hover{
   background-color: #ff6600;
 }
 
@@ -476,6 +477,10 @@ footer .copy{
   .button-box .tip-button{
     width: 86%;
   }
+  .button-box .more-tests-button{
+    width: 86%;
+  }
+
 
   .footer-nav-container{
     width: 90%;
