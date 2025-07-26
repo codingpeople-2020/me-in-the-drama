@@ -21,8 +21,8 @@ function GuidePage() {
 
   return (
     <div className="container">
-        <AdFitUnit unit="DAN-g4Yf8bh8OygdzV7d" width="728" height="90" />
-        <AdFitUnit unit="DAN-Pp1Md32up4KoG5gr" width="320" height="100" />
+        <AdFitUnit unit="DAN-3AcHam36oy1kWn3N" width="728" height="90" />
+        <AdFitUnit unit="DAN-pKd2F5tBQ27mq1VK" width="320" height="100" />
         <div className="guide-container" style={{backgroundColor: "#f3f4f6"}}>
         <h1 className="guide-title"><span style={{ color: "#4f46e5", backgroundColor: "#e5f4f9", padding: "4px 8px" }}>{guide.title}!</span></h1>
         <img className="guide-image" src={result.image} alt={result.name}/>

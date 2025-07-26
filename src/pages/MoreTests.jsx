@@ -5,8 +5,8 @@ import AdFitUnit from '../components/AdFitUnit';
 const MoreTests = () => {
   return (
     <div className="container">
-      <AdFitUnit unit="DAN-g4Yf8bh8OygdzV7d" width="728" height="90" />
-      <AdFitUnit unit="DAN-Pp1Md32up4KoG5gr" width="320" height="100" />
+      <AdFitUnit unit="DAN-3AcHam36oy1kWn3N" width="728" height="90" />
+      <AdFitUnit unit="DAN-pKd2F5tBQ27mq1VK" width="320" height="100" />
       <div className="more-tests-container" style={{backgroundColor: "#f3f4f6"}}>
         <Link to="/">
             <button style={{ marginTop: "30px", backgroundColor: "#ec4899", color: "#fff", padding: "12px 20px", borderRadius: "8px" }}>

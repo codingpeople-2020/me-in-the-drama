@@ -28,8 +28,9 @@ function QuizPage() {
 
   return (
     <div className="container">
-      <AdFitUnit unit="DAN-RGH7G9VOVyUYJJav" width="728" height="90" />
-      <AdFitUnit unit="DAN-Pp1Md32up4KoG5gr" width="320" height="100" />
+      <AdFitUnit unit="DAN-J6LhGYfu9C41KjsI" width="728" height="90" />
+      <AdFitUnit unit="DAN-pKd2F5tBQ27mq1VK" width="320" height="100" />
+      
       <div className="quiz-container" style={{backgroundColor: "#f3f4f6"}}>
         <p className="progress-count">
           Q{current + 1} / {questions.length}

@@ -5,7 +5,7 @@ import AdFitUnit from '../components/AdFitUnit';
 const Contact = () => {
   return (
     <div className="container">
-        <AdFitUnit unit="DAN-g4Yf8bh8OygdzV7d" width="728" height="90" />
+        <AdFitUnit unit="DAN-3AcHam36oy1kWn3N" width="728" height="90" />
         <p className="home-button"><Link to="/">🏠 HOME</Link></p>
         <div className="footer-nav-container">
             <h1 className="title">📬 문의 하기</h1>
@@ -23,7 +23,6 @@ const Contact = () => {
             <p className="description">
               · 서비스 개선에 대한 아이디어, 불편 사항, 또는 따뜻한 응원의 메시지도 환영합니다! 모두가 함께 만드는 테스트 공간이 되길 바랍니다.
             </p>
-            <AdFitUnit unit="DAN-flhH6MuBurZtwCKc" width="320" height="50" />
         </div>
         <footer>
             <ul className="footer-nav">

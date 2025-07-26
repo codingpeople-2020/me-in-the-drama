@@ -5,7 +5,7 @@ import AdFitUnit from '../components/AdFitUnit';
 const PrivacyPolicy = () => {
   return (
     <div className="container">
-        <AdFitUnit unit="DAN-g4Yf8bh8OygdzV7d" width="728" height="90" />
+        <AdFitUnit unit="DAN-3AcHam36oy1kWn3N" width="728" height="90" />
         <p className="home-button"><Link to="/">🏠 HOME</Link></p>
         <div className="footer-nav-container">
             <h1 className="title">📜 개인 정보 처리 방침</h1>
@@ -42,7 +42,6 @@ const PrivacyPolicy = () => {
                 · 이름: 김민석 <br />
                 · 이메일: codinglab_usdd@naver.co.kr
             </p>
-            <AdFitUnit unit="DAN-flhH6MuBurZtwCKc" width="320" height="50" />
             </div>
             
         <footer>
