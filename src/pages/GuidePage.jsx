@@ -48,7 +48,7 @@ function GuidePage() {
             </div>
         </section>
 
-        <div style={{ textAlign: "center", marginTop: "40px" }}>
+        <div style={{paddingTop: "24px"}}>
             <button
             onClick={() => navigate(`/result/${type}`)}
             style={{
@@ -64,6 +64,9 @@ function GuidePage() {
             >
             결과 페이지로 돌아가기
             </button>
+        </div>
+        <div className="ad-box">
+          <AdFitUnit unit="DAN-lETwh64uekCxNfZg" width="320" height="50" />
         </div>
         </div>
         <footer>

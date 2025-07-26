@@ -12,7 +12,10 @@ function Home() {
         <p className="start-description">몇 가지 질문을 통해 당신은 드라마 속 <br />어떤 캐릭터인지 알아보세요!</p>
         <Link to="/quiz">
           <button className="start-button">테스트 시작하기</button>
-        </Link>
+        </Link><br /><br />
+        <div className="ad-box">
+          <AdFitUnit unit="DAN-lETwh64uekCxNfZg" width="320" height="50" />
+        </div>
       </div>
 
         <footer>

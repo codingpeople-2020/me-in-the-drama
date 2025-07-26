@@ -8,6 +8,7 @@ const Terms = () => {
         <AdFitUnit unit="DAN-3AcHam36oy1kWn3N" width="728" height="90" />
         <p className="home-button"><Link to="/">🏠 HOME</Link></p>
         <div className="footer-nav-container">
+            <AdFitUnit unit="DAN-lETwh64uekCxNfZg" width="320" height="50" />
             <h1 className="title">🧾 이용 약관</h1>
             <h2 className="sub-title">1. 서비스 소개</h2>
             <p className="description">

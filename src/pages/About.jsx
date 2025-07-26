@@ -9,6 +9,7 @@ const About = () => {
         
         <p className="home-button"><Link to="/">🏠 HOME</Link></p>
         <div className="footer-nav-container">
+            <AdFitUnit unit="DAN-lETwh64uekCxNfZg" width="320" height="50" />
             <h1 className="title">🎨 우리 이야기</h1>
             <p className="title-description">
               <strong>CodingPeople</strong>은 재미와 공감을 바탕으로, 사람들의 성격과 스토리를 연결하는 서비스를 만듭니다.

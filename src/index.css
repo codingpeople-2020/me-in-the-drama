@@ -538,12 +538,13 @@ footer .copy{
   #adfit-DAN-3AcHam36oy1kWn3N{
     display: none;
   }
+  .ad-box{
+    width: 88%;
+    margin: 0 auto;
+    padding-top: 8px;
+  }
   /* M_하단_얇은배너 */
   #adfit-DAN-lETwh64uekCxNfZg{
     display: block;
-    position: absolute;
-    top: 0.5%;
-    left: 50%;
-    transform: translate(-50%, 0);
   }
 }
