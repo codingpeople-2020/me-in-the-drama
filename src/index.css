@@ -112,11 +112,11 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 80%;
-  height: 64vh;
+  height: 58vh;
   background: #ffffff;
   border-radius: 16px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-  padding: 54px 0;
+  padding: 36px 0;
   margin: 0 auto;
   text-align: center;
   overflow: auto;
@@ -140,6 +140,7 @@ img {
 .result-title, .guide-title{
   letter-spacing: 2px;
   padding: 6px 0 24px 0;
+  line-height: 48px;
 }
 .result-image{
   display: block;
@@ -207,6 +208,34 @@ img {
   padding: 20px 0 24px 0;
   color: #333;
   font-size: 16px;
+}
+
+.tests-section{
+  width: 72%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  padding: 18px 0;
+}
+.tests-section li{
+  width: 30%;
+  /* background-color: #ccc; */
+  padding: 20px 15px;
+}
+.tests-section li:nth-child(3n){
+  padding: 0;
+}
+.tests-section li a{
+  display: block;
+  width: 100%;
+  overflow: hidden;
+}
+.tests-section li a img{
+  width: 100%;
+  object-fit: contain;
+  border: 1px solid #e5e6e7;
 }
 
 
@@ -466,6 +495,33 @@ footer .copy{
     padding: 16px 0 24px 0;
     font-size: 0.8em;
     line-height: 1.5em;
+  }
+
+  .tests-section{
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    padding: 18px 0;
+  }
+  .tests-section li{
+    width: 96%;
+    padding: 20px 15px;
+  }
+  .tests-section li:nth-child(3n){
+    padding: 0;
+  }
+  .tests-section li a{
+    display: block;
+    width: 100%;
+    overflow: hidden;
+  }
+  .tests-section li a img{
+    width: 100%;
+    object-fit: contain;
+    border: 1px solid #e5e6e7;
   }
 
 
