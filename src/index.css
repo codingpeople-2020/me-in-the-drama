@@ -125,13 +125,13 @@ img {
 .guide-container::-webkit-scrollbar, .more-tests-container::-webkit-scrollbar {
     width: 10px;
 }
-.guide-container::-webkit-scrollbar-thumb, .more-tests-container::-webkit-scrollbar {
+.guide-container::-webkit-scrollbar-thumb, .more-tests-container::-webkit-scrollbar-thumb {
     background-color: #ccc;
     border-radius: 10px;
     background-clip: padding-box;
     border: 2px solid transparent;
 }
-.guide-container::-webkit-scrollbar-track, .more-tests-container::-webkit-scrollbar {
+.guide-container::-webkit-scrollbar-track, .more-tests-container::-webkit-scrollbar-track {
     background-color: #eee;
     border-radius: 10px;
     box-shadow: inset 0px 0px 5px white;
@@ -398,7 +398,8 @@ footer .copy{
   top: 4%;
   left: 50%;
   transform: translate(-50%, 0);
-}/* M_하단_얇은배너 */
+}
+/* M_하단_얇은배너 */
 #adfit-DAN-lETwh64uekCxNfZg{
   display: none;
 }
